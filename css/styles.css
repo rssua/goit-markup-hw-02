@@ -79,6 +79,7 @@ ul {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
+  text-align: center;
   color: #fff;
 }
 
@@ -113,6 +114,7 @@ ul {
   line-height: 1.11;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .team-wrapper {
@@ -136,6 +138,7 @@ ul {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
